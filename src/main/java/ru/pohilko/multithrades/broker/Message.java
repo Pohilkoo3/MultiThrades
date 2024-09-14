@@ -1,4 +1,4 @@
-package com.example.trainigapi.broker;
+package ru.pohilko.multithrades.broker;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

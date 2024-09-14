@@ -1,6 +1,4 @@
-package com.example.trainigapi.broker;
-
-import lombok.NoArgsConstructor;
+package ru.pohilko.multithrades.broker;
 
 
 public class MessageConsumingException extends RuntimeException{
