@@ -1,4 +1,4 @@
-package com.example.trainigapi.reintrant_lock;
+package ru.pohilko.multithrades.reintrant_lock;
 
 import lombok.Getter;
 

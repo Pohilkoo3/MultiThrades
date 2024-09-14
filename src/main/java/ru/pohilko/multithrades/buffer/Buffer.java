@@ -1,6 +1,7 @@
-package com.example.trainigapi.buffer;
+package ru.pohilko.multithrades.buffer;
 
-import com.example.trainigapi.broker.Message;
+
+import ru.pohilko.multithrades.broker.Message;
 
 import java.util.Stack;
 import java.util.concurrent.locks.Condition;
