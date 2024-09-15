@@ -1,4 +1,4 @@
-package ru.pohilko.multithrades.broker;
+package ru.pohilko.multithrades.lessons.broker;
 
 import org.springframework.stereotype.Service;
 

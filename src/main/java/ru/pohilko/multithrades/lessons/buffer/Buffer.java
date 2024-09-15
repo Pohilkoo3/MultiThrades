@@ -1,7 +1,7 @@
-package ru.pohilko.multithrades.buffer;
+package ru.pohilko.multithrades.lessons.buffer;
 
 
-import ru.pohilko.multithrades.broker.Message;
+import ru.pohilko.multithrades.lessons.broker.Message;
 
 import java.util.Stack;
 import java.util.concurrent.locks.Condition;

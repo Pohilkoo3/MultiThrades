@@ -1,10 +1,7 @@
-package ru.pohilko.multithrades.reentrant_read_wrte_lock;
-
-import lombok.Getter;
+package ru.pohilko.multithrades.lessons.reentrant_read_wrte_lock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
-import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 import static java.lang.Thread.currentThread;
