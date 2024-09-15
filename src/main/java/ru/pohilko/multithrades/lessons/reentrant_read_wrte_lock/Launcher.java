@@ -1,6 +1,6 @@
-package ru.pohilko.multithrades.reentrant_read_wrte_lock;
+package ru.pohilko.multithrades.lessons.reentrant_read_wrte_lock;
 
-import ru.pohilko.multithrades.broker.ThreadFactory;
+import ru.pohilko.multithrades.lessons.broker.ThreadFactory;
 
 import java.util.List;
 import java.util.function.IntConsumer;

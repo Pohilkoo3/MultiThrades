@@ -1,4 +1,4 @@
-package ru.pohilko.multithrades.reintrant_lock;
+package ru.pohilko.multithrades.lessons.reintrant_lock;
 
 import java.util.function.IntConsumer;
 

@@ -1,14 +1,13 @@
-package ru.pohilko.multithrades;
+package ru.pohilko.multithrades.lessons;
 
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.stereotype.Service;
-import ru.pohilko.multithrades.broker.Message;
-import ru.pohilko.multithrades.broker.MessageFactory;
-import ru.pohilko.multithrades.broker.ThreadFactory;
-import ru.pohilko.multithrades.buffer.Buffer;
+import ru.pohilko.multithrades.lessons.broker.Message;
+import ru.pohilko.multithrades.lessons.broker.MessageFactory;
+import ru.pohilko.multithrades.lessons.broker.ThreadFactory;
+import ru.pohilko.multithrades.lessons.buffer.Buffer;
 
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
